@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ghaith+Khalfallah;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG">
   </a>
 
-  
+  <h2 style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 700; color: #0EA5E9;">👋 Hi, I'm Ghaith Khalfallah</h2>
   <p>
 
-    👋 Hi, I'm Ghaith Khalfallah
+    
     A passionate full-stack developer who thrives on curiosity, creativity, and building meaningful digital experiences. 🚀 I love exploring new technologies, solving real-world problems, and contributing to open-source projects.
   </p>
   
@@ -78,7 +78,7 @@ Successfully completed the immersive RBK training program, including all phases 
 
 ## <div align="center">📬 Let's Connect</div>
 
-<h2 style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 700; color: #0EA5E9;">📬 Contact Me</h2>
+
 <p>
   <a href="https://linkedin.com/in/ghaith-khalfallah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
