@@ -8,7 +8,10 @@
     
   </div>
 
- <p style="font-size: 30px;"> 👋 Hi, I'm Ghaith Khalfallah</p>
+ <p style="font-family: 'Segoe UI', 'Fira Code', sans-serif; font-size: 30px; font-weight: bold; color: #22D3EE;">
+  👋 Hi, I'm Ghaith Khalfallah
+</p>
+
    
   <p style="font-size: 18px; max-width: 800px; margin: 20px auto;">
    
@@ -75,7 +78,7 @@ Whether it's front-end interfaces or back-end architecture, I approach every pro
     </tr>
     <tr>
       <td colspan="2">
-        <img src="https://github-profile-trophy.vercel.app/?username=Ghaithkhal27&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+
       </td>
     </tr>
   </table>
