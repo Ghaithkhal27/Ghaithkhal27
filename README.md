@@ -19,16 +19,19 @@ From tourism to tech, my journey is fueled by curiosity, creativity, and a commi
 
 ## 🌟 About Me
 
-I transitioned from the world of hospitality to software development, bringing with me a strong foundation in communication, adaptability, and service design.  
-Now, I build full-stack applications using modern web technologies—always with a focus on clean code, inclusive design, and meaningful impact.
+I'm a full-stack developer driven by curiosity, creativity, and a passion for building meaningful digital experiences. My journey into software development has been shaped by a commitment to continuous learning and a desire to solve real-world problems through technology.
 
-I thrive in agile environments where collaboration turns ideas into scalable solutions. Whether it's front-end finesse or back-end architecture, I take ownership of every detail.
+I specialize in crafting intuitive, user-focused applications using modern web technologies. I enjoy working in collaborative environments where ideas evolve into impactful solutions.
+
+Whether it's front-end interfaces or back-end architecture, I approach every project with ownership, clarity, and a focus on delivering value. I'm especially interested in inclusive design, clean code practices, and building tools that empower others.
+
+"I build to solve, create to inspire, and code to make a difference"
 
 ---
 
 ## 🏅 Certifications
 
-🎓 **Full-Stack Software Engineering – ReBootKamp (RBK)**  
+🎓 **Full-Stack Software  – ReBootKamp (RBK)**  
 Completed an immersive, project-based training program focused on JavaScript, agile methodologies, and full-stack development.  
 🔗 [View Credential](https://credsverse.com/credentials/2cbfc7fa-45d8-43ce-8da7-21aba97d2201?preview=1)
 
