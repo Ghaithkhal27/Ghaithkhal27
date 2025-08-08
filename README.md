@@ -113,10 +113,10 @@ Successfully completed the immersive RBK training program, including all phases 
     </tr>
     <tr>
       <td colspan="4" align="center" style="padding-top: 15px">
-        <a href="mailto:ghaithkhalfallah18@gmail.com">ghaithkhalfallah18@gmail.com</a> | 
+        <a href="mailto:ghaithkhalfallah18@gmail.com"></a> | 
         <a href="tel:+21627420178">+216 27420178</a> | 
-        <a href="https://linkedin.com/in/ghaith-khalfallah">linkedin.com/in/ghaith-khalfallah</a> | 
-        <a href="https://ghaith-khalfallah.netlify.app">ghaith-khalfallah.netlify.app</a>
+        <a href="https://linkedin.com/in/ghaith-khalfallah"></a> | 
+        <a href="https://ghaith-khalfallah.netlify.app"></a>
       </td>
     </tr>
   </table>
