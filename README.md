@@ -8,10 +8,10 @@
     
   </div>
 
-  <!-- Introduction -->
-    ## <div align="center">👋 Hi, I'm Ghaith Khalfallah</div>
+ <p style="font-size: 30px;"> 👋 Hi, I'm Ghaith Khalfallah</p>
+   
   <p style="font-size: 18px; max-width: 800px; margin: 20px auto;">
-
+   
     A passionate full-stack developer who thrives on curiosity, creativity, and building meaningful digital experiences. 🚀 I love exploring new technologies, solving real-world problems, and contributing to open-source projects.
   </p>
 </div>
@@ -53,7 +53,7 @@ Whether it's front-end interfaces or back-end architecture, I approach every pro
 
 ---
 
-## <div align="center">🛠️ 🛠️ Skills & Technologies</div>
+## <div align="center"> 🛠️ Skills & Technologies</div>
 
 <div align="center" style="margin: 2rem 0">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,react,tailwind,nodejs,express,mongodb,postgres,prisma,postman,figma,git,github" alt="Tech Stack">
