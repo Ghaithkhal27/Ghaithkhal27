@@ -6,21 +6,12 @@
 
   
   <p>
+
     👋 Hi, I'm Ghaith Khalfallah
     A passionate full-stack developer who thrives on curiosity, creativity, and building meaningful digital experiences. 🚀 I love exploring new technologies, solving real-world problems, and contributing to open-source projects.
   </p>
   
-  <!-- Stats Badges -->
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Ghaithkhal27&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
-    <a href="https://github.com/Ghaithkhal27?tab=followers">
-      <img src="https://img.shields.io/github/followers/Ghaithkhal27?label=Followers&style=social" alt="GitHub Followers">
-    </a>
-    <a href="https://github.com/Ghaithkhal27?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-15-blue?logo=github" alt="Repositories">
-    </a>
-  </div>
-</div>
+
 
 ---
 
@@ -76,7 +67,7 @@ Successfully completed the immersive RBK training program, including all phases 
     </tr>
   </table>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=Ghaithkhal27&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  
 </div>
 
 ---
