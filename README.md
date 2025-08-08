@@ -12,9 +12,7 @@
 
 # 👋 Hi, I'm Ghaith Khalfallah
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical" alt="GitHub Streak">
-</p>
+
 
 
 
@@ -50,16 +48,53 @@ Completed an immersive, project-based training program focused on JavaScript, ag
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghaithkhal27&show_icons=true&theme=radical)
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical" alt="GitHub Streak">
+</p>
 ---
 
+## 📬 Contact Me
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:ghaithkhalfallah18@gmail.com">
+          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" alt="Email">
+          <br>Email
+        </a>
+      </td>
+      <td align="center">
+        <a href="tel:+21627420178">
+          <img src="https://img.icons8.com/color/96/000000/phone.png" width="60" alt="Phone">
+          <br>Phone
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/ghaith-khalfallah">
+          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn">
+          <br>LinkedIn
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://ghaith-khalfallah.netlify.app">
+          <img src="https://img.icons8.com/color/96/000000/domain.png" width="60" alt="Portfolio">
+          <br>Portfolio
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center" style="padding-top: 15px">
+        <a href="mailto:ghaithkhalfallah18@gmail.com">ghaithkhalfallah18@gmail.com</a> | 
+        <a href="tel:+21627420178">+216 27420178</a> | 
+        <a href="https://linkedin.com/in/ghaith-khalfallah">linkedin.com/in/ghaith-khalfallah</a> | 
+        <a href="https://ghaith-khalfallah.netlify.app">ghaith-khalfallah.netlify.app</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## 📬 Let's Connect
-
-📧 Email: [ghaithkhalfallah18@gmail.com](mailto:ghaithkhalfallah18@gmail.com)  
-📱 Phone: [+216 27420178](tel:+21627420178)  
-💼 LinkedIn: [linkedin.com/in/ghaith-khalfallah](https://www.linkedin.com/in/ghaith-khalfallah)  
-🌐 Portfolio: [ghaith-khalfallah.netlify.app](https://ghaith-khalfallah.netlify.app)
+---
 
 
 
