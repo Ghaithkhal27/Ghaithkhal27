@@ -16,21 +16,17 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I'm a full-stack developer with a background in tourism and a passion for building meaningful digital experiences. My journey from service to software has shaped my strengths in communication, adaptability, and user-centered design.
-
-I specialize in crafting intuitive applications using modern web technologies. I thrive in agile environments, love solving real-world problems, and enjoy empowering others through technology.
-
----
-
-## 🧠 My Journey in a Nutshell
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical" alt="GitHub Streak">
+</div>
 
 ```mermaid
 graph LR
-A[Passion] --> B(Problem Solving)
-A --> C(Creative Development)
-A --> D(Technology Exploration)
-B --> E[Clean Code]
-C --> F[User Experience]
-D --> G[Open Source]
+A[Curiosity] --> B(Creative Development)
+A --> C(Problem Solving)
+B --> D[Meaningful Digital Experiences]
+C --> E[Real-World Solutions]
+D --> F[User-Focused Applications]
+E --> F
