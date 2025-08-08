@@ -1,18 +1,17 @@
 <div align="center">
-  <!-- Dynamic Animated Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=22D3EE&center=true&vCenter=true&width=550&height=60&lines=👋+Hi,+I'm+Ghaith+Khalfallah;🚀+Full-Stack+Developer;💡+Problem+Solver;🔥+Tech+Enthusiast" alt="Typing SVG">
+   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ghaith+Khalfallah;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG">
   </a>
   
-  <!-- Profile Metrics -->
+  
   <div>
-    <img src="https://komarev.com/ghpvc/?username=Ghaithkhal27&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/Ghaithkhal27?label=Followers&style=social" alt="GitHub Followers">
-    <img src="https://img.shields.io/github/stars/Ghaithkhal27?label=Stars&style=social" alt="GitHub Stars">
+    
   </div>
 
   <!-- Introduction -->
+    ## <div align="center">👋 Hi, I'm Ghaith Khalfallah</div>
   <p style="font-size: 18px; max-width: 800px; margin: 20px auto;">
+
     A passionate full-stack developer who thrives on curiosity, creativity, and building meaningful digital experiences. 🚀 I love exploring new technologies, solving real-world problems, and contributing to open-source projects.
   </p>
 </div>
@@ -54,34 +53,10 @@ Whether it's front-end interfaces or back-end architecture, I approach every pro
 
 ---
 
-## <div align="center">🛠️ Tech Stack</div>
+## <div align="center">🛠️ 🛠️ Skills & Technologies</div>
 
-<div align="center" style="margin: 30px 0;">
-  <h3>Frontend</h3>
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  </div>
-  
-  <h3>Backend</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </div>
-  
-  <h3>Tools & Utilities</h3>
-  <div>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  </div>
+<div align="center" style="margin: 2rem 0">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,react,tailwind,nodejs,express,mongodb,postgres,prisma,postman,figma,git,github" alt="Tech Stack">
 </div>
 
 ---
