@@ -78,44 +78,10 @@ Successfully completed the immersive RBK training program, including all phases 
 
 ## 📬 Contact Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="mailto:ghaithkhalfallah18@gmail.com">
-          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" alt="Email">
-          <br>Email
-        </a>
-      </td>
-      <td align="center">
-        <a href="tel:+21627420178">
-          <img src="https://img.icons8.com/color/96/000000/phone.png" width="60" alt="Phone">
-          <br>Phone
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/ghaith-khalfallah">
-          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn">
-          <br>LinkedIn
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://ghaith-khalfallah.netlify.app">
-          <img src="https://img.icons8.com/color/96/000000/domain.png" width="60" alt="Portfolio">
-          <br>Portfolio
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center" style="padding-top: 15px">
-        <a href="mailto:ghaithkhalfallah18@gmail.com"></a> | 
-        <a href="tel:+21627420178">+216 27420178</a> | 
-        <a href="https://linkedin.com/in/ghaith-khalfallah"></a> | 
-        <a href="https://ghaith-khalfallah.netlify.app"></a>
-      </td>
-    </tr>
-  </table>
-</div>
+
+<p><a href="linkedin.com/in/ghaith-khalfallah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="ghaith-khalfallah.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="ghaithkhalfallah18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> </p>
+
+
 
 ---
 
