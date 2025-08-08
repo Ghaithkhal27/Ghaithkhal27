@@ -5,13 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ghaithkhal27&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
-  <a href="https://linkedin.com/in/ghaith-khalfallah">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ghaithkhalfallah18@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email">
-  </a>
+
 </div>
 
 ---
@@ -28,6 +22,13 @@ Whether it's front-end interfaces or back-end architecture, I approach every pro
 
 ---
 
+
+## 🛠️ Skills & Technologies
+
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,jquery,react,tailwind,nodejs,express,mongodb,postgres,prisma,postman,figma,git,github)](https://skillicons.dev)
+
+---
+
 ## 🧠 My Journey in a Nutshell
 
 ```mermaid
@@ -38,3 +39,15 @@ B --> D[Meaningful Digital Experiences]
 C --> E[Real-World Solutions]
 D --> F[User-Focused Applications]
 E --> F
+🏅 Certifications
+<div align="center"> <a href="https://credsverse.com/credentials/2cbfc7fa-45d8-43ce-8da7-21aba97d2201?preview=1"> <img src="https://img.shields.io/badge/ReBootKamp-Full--Stack%20Developer-%2300C4CC?style=for-the-badge&logo=codeigniter&logoColor=white" alt="RBK Certification"> </a> </div>
+Full-Stack Software – ReBootKamp (RBK)
+Successfully completed the immersive RBK training program, including all phases and certification exams. Delivered a thesis project demonstrating full-stack proficiency.
+🔗 View Credential
+
+## 📬 Let's Connect
+
+📧 Email: [ghaithkhalfallah18@gmail.com](mailto:ghaithkhalfallah18@gmail.com)  
+📱 Phone: [+216 27420178](tel:+21627420178)  
+💼 LinkedIn: [linkedin.com/in/ghaith-khalfallah](https://www.linkedin.com/in/ghaith-khalfallah)  
+🌐 Portfolio: [ghaith-khalfallah.netlify.app](https://ghaith-khalfallah.netlify.app)
