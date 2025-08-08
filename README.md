@@ -76,10 +76,56 @@ Successfully completed the immersive RBK training program, including all phases 
 
 ---
 
-## 📬 Contact Me
+## <div align="center">📬 Let's Connect</div>
 
+<div align="center">
+  <!-- Enhanced Contact Section -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+    <!-- Email -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="mailto:ghaithkhalfallah18@gmail.com" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">📧 Email</div>
+        <div style="font-size: 14px; color: #8B949E;">ghaithkhalfallah18@gmail.com</div>
+      </a>
+    </div>
+    
+    <!-- Phone -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="tel:+21627420178" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">📱 Phone</div>
+        <div style="font-size: 14px; color: #8B949E;">+216 27420178</div>
+      </a>
+    </div>
+    
+    <!-- LinkedIn -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="https://linkedin.com/in/ghaith-khalfallah" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">💼 LinkedIn</div>
+        <div style="font-size: 14px; color: #8B949E;">ghaith-khalfallah</div>
+      </a>
+    </div>
+    
+    <!-- Portfolio -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="https://ghaith-khalfallah.netlify.app" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">🌐 Portfolio</div>
+        <div style="font-size: 14px; color: #8B949E;">ghaith-khalfallah.netlify.app</div>
+      </a>
+    </div>
+  </div>
+  
+  <!-- Quick Connect Buttons -->
+  <div style="margin-top: 30px;">
+    <a href="mailto:ghaithkhalfallah18@gmail.com">
+      <img src="https://img.shields.io/badge/-Send_Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://linkedin.com/in/ghaith-khalfallah">
+      <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+</div>
 
-<p><a href="linkedin.com/in/ghaith-khalfallah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="ghaith-khalfallah.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="ghaithkhalfallah18@gmail.com" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> </p>
+<br>
 
 
 
