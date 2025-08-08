@@ -1,22 +1,22 @@
 <div align="center">
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Ghaith+Khalfallah;Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG">
+  <!-- Enhanced Header with Dynamic Elements -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=✨+Hello+World!;👋+I'm+Ghaith+Khalfallah;🚀+Full-Stack+Developer;💡+Problem+Solver;🔥+Tech+Enthusiast" alt="Typing SVG">
   </a>
   
-  
-  <div>
-    
+  <!-- Profile Stats Badges -->
+  <div style="margin: 15px 0;">
+    <img src="https://komarev.com/ghpvc/?username=Ghaithkhal27&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/Ghaithkhal27?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/stars/Ghaithkhal27?label=Stars&style=social" alt="GitHub Stars">
   </div>
-
- <p style="font-family: 'Segoe UI', 'Fira Code', sans-serif; font-size: 30px; font-weight: bold; color: #22D3EE;">
-  👋 Hi, I'm Ghaith Khalfallah
-</p>
-
-   
-  <p style="font-size: 18px; max-width: 800px; margin: 20px auto;">
-   
-    A passionate full-stack developer who thrives on curiosity, creativity, and building meaningful digital experiences. 🚀 I love exploring new technologies, solving real-world problems, and contributing to open-source projects.
-  </p>
+  
+  <!-- Introduction Card -->
+  <div style="background: linear-gradient(145deg, #0D1117, #1a1f29); padding: 25px; border-radius: 15px; max-width: 800px; box-shadow: 0 8px 16px rgba(0,0,0,0.3);">
+    <p style="font-size: 18px; line-height: 1.6; margin: 0;">
+      A passionate full-stack developer who thrives on curiosity, creativity, and building meaningful digital experiences. 🚀 I love exploring new technologies, solving real-world problems, and contributing to open-source projects.
+    </p>
+  </div>
 </div>
 
 ---
@@ -29,7 +29,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghaithkhal27&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" width="49%">
 </div>
 
-<blockquote align="center" style="border-left: 4px solid #22D3EE; padding: 10px 20px; background: #0D1117; margin: 20px 0;">
+<blockquote align="center" style="border-left: 4px solid #22D3EE; padding: 10px 20px; background: #0D1117; margin: 20px 0; border-radius: 8px;">
   <p style="font-style: italic; font-size: 18px;">"I build to solve, create to inspire, and code to make a difference"</p>
 </blockquote>
 
@@ -78,7 +78,7 @@ Whether it's front-end interfaces or back-end architecture, I approach every pro
     </tr>
     <tr>
       <td colspan="2">
-
+        <img src="https://github-profile-trophy.vercel.app/?username=Ghaithkhal27&theme=radical&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
       </td>
     </tr>
   </table>
@@ -89,42 +89,50 @@ Whether it's front-end interfaces or back-end architecture, I approach every pro
 ## <div align="center">📬 Let's Connect</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="150">
-        <a href="mailto:ghaithkhalfallah18@gmail.com">
-          <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" alt="Email">
-          <br><strong>Email</strong>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="tel:+21627420178">
-          <img src="https://img.icons8.com/color/96/000000/phone.png" width="60" alt="Phone">
-          <br><strong>Phone</strong>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://linkedin.com/in/ghaith-khalfallah">
-          <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn">
-          <br><strong>LinkedIn</strong>
-        </a>
-      </td>
-      <td align="center" width="150">
-        <a href="https://ghaith-khalfallah.netlify.app">
-          <img src="https://img.icons8.com/color/96/000000/domain.png" width="60" alt="Portfolio">
-          <br><strong>Portfolio</strong>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center" style="padding-top: 20px;">
-        <a href="mailto:ghaithkhalfallah18@gmail.com" style="margin: 0 10px;">ghaithkhalfallah18@gmail.com</a> • 
-        <a href="tel:+21627420178" style="margin: 0 10px;">+216 27420178</a> • 
-        <a href="https://linkedin.com/in/ghaith-khalfallah" style="margin: 0 10px;">LinkedIn</a> • 
-        <a href="https://ghaith-khalfallah.netlify.app" style="margin: 0 10px;">Portfolio</a>
-      </td>
-    </tr>
-  </table>
+  <!-- Enhanced Contact Section -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto;">
+    <!-- Email -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="mailto:ghaithkhalfallah18@gmail.com" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">📧 Email</div>
+        <div style="font-size: 14px; color: #8B949E;">ghaithkhalfallah18@gmail.com</div>
+      </a>
+    </div>
+    
+    <!-- Phone -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="tel:+21627420178" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">📱 Phone</div>
+        <div style="font-size: 14px; color: #8B949E;">+216 27420178</div>
+      </a>
+    </div>
+    
+    <!-- LinkedIn -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="https://linkedin.com/in/ghaith-khalfallah" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">💼 LinkedIn</div>
+        <div style="font-size: 14px; color: #8B949E;">ghaith-khalfallah</div>
+      </a>
+    </div>
+    
+    <!-- Portfolio -->
+    <div style="background: #0D1117; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.3s ease;">
+      <a href="https://ghaith-khalfallah.netlify.app" style="text-decoration: none;">
+        <div style="color: #22D3EE; font-size: 18px; font-weight: bold; margin-bottom: 10px;">🌐 Portfolio</div>
+        <div style="font-size: 14px; color: #8B949E;">ghaith-khalfallah.netlify.app</div>
+      </a>
+    </div>
+  </div>
+  
+  <!-- Quick Connect Buttons -->
+  <div style="margin-top: 30px;">
+    <a href="mailto:ghaithkhalfallah18@gmail.com">
+      <img src="https://img.shields.io/badge/-Send_Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://linkedin.com/in/ghaith-khalfallah">
+      <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
 </div>
 
 <br>
