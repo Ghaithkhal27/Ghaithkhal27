@@ -5,38 +5,25 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ghaithkhal27&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
-  <a href="https://linkedin.com/in/ghaith-khalfallah">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ghaithkhalfallah18@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email">
-  </a>
+
 </div>
+
+---
+
+# 👋 Hi, I'm Ghaith Khalfallah
+
+A full-stack developer with a passion for crafting intuitive digital experiences that empower users and solve real-world problems. 🚀  
+From tourism to tech, my journey is fueled by curiosity, creativity, and a commitment to continuous learning.
 
 ---
 
 ## 🌟 About Me
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical" alt="GitHub Streak">
-</div>
+I transitioned from the world of hospitality to software development, bringing with me a strong foundation in communication, adaptability, and service design.  
+Now, I build full-stack applications using modern web technologies—always with a focus on clean code, inclusive design, and meaningful impact.
 
-```mermaid
-graph LR
-A[Curiosity] --> B(Creative Development)
-A --> C(Problem Solving)
-B --> D[Meaningful Digital Experiences]
-C --> E[Real-World Solutions]
-D --> F[User-Focused Applications]
-E --> F
-I'm a full-stack developer driven by curiosity, creativity, and a passion for building meaningful digital experiences. My journey into software development has been shaped by a commitment to continuous learning and a desire to solve real-world problems through technology.
+I thrive in agile environments where collaboration turns ideas into scalable solutions. Whether it's front-end finesse or back-end architecture, I take ownership of every detail.
 
-I specialize in crafting intuitive, user-focused applications using modern web technologies. I enjoy working in collaborative environments where ideas evolve into impactful solutions.
-
-Whether it's front-end interfaces or back-end architecture, I approach every project with ownership, clarity, and a focus on delivering value. I'm especially interested in inclusive design, clean code practices, and building tools that empower others.
-
-"I build to solve, create to inspire, and code to make a difference"
 ---
 
 ## 🏅 Certifications
@@ -59,7 +46,14 @@ Completed an immersive, project-based training program focused on JavaScript, ag
 
 ---
 
+## 📌 Featured Projects
 
+### 🧠 Academy Project  
+A full-stack learning platform built in an agile team environment.  
+Tech: React, Node.js, PostgreSQL, Prisma, Tailwind CSS  
+🔗 [Live Demo](https://ghaith-khalfallah.netlify.app) | 📂 [Code](https://github.com/Ghaithkhal27)
+
+---
 
 ## 📬 Let's Connect
 
@@ -67,5 +61,6 @@ Completed an immersive, project-based training program focused on JavaScript, ag
 📱 Phone: [+216 27420178](tel:+21627420178)  
 💼 LinkedIn: [linkedin.com/in/ghaith-khalfallah](https://www.linkedin.com/in/ghaith-khalfallah)  
 🌐 Portfolio: [ghaith-khalfallah.netlify.app](https://ghaith-khalfallah.netlify.app)
+
 
 
