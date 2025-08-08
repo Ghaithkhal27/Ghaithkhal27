@@ -46,14 +46,7 @@ Completed an immersive, project-based training program focused on JavaScript, ag
 
 ---
 
-## 📌 Featured Projects
 
-### 🧠 Academy Project  
-A full-stack learning platform built in an agile team environment.  
-Tech: React, Node.js, PostgreSQL, Prisma, Tailwind CSS  
-🔗 [Live Demo](https://ghaith-khalfallah.netlify.app) | 📂 [Code](https://github.com/Ghaithkhal27)
-
----
 
 ## 📬 Let's Connect
 
