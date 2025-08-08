@@ -15,13 +15,17 @@
 
 ---
 
-## 🌟 About Me
+## <div align="center">🌟 About Me</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical" alt="GitHub Streak">
+  <!-- GitHub Stats Visualization -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical&background=0D1117&border=444" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ghaithkhal27&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" alt="Activity Graph" width="49%">
 </div>
 
-> *"I build to solve, create to inspire, and code to make a difference"*
+<blockquote align="center" style="border-left: 4px solid #22D3EE; padding: 10px 20px; background: #0D1117; margin: 20px 0; border-radius: 8px;">
+  <p style="font-style: italic; font-size: 18px;">"I build to solve, create to inspire, and code to make a difference"</p>
+</blockquote>
 
 I'm a full-stack developer driven by curiosity, creativity, and a passion for building meaningful digital experiences. My journey into software development has been shaped by a commitment to continuous learning and a desire to solve real-world problems through technology.
 
