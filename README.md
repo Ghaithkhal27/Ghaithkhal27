@@ -5,90 +5,62 @@
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ghaithkhal27&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views">
-  <a href="https://linkedin.com/in/ghaith-khalfallah">
-    <img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:ghaithkhalfallah18@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat&logo=Gmail&logoColor=white" alt="Email">
-  </a>
+
 </p>
 
 ---
 
-## 🌟 About Me
+# 👋 Hi, I'm Ghaith Khalfallah
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical" alt="GitHub Streak">
 </p>
 
-```mermaid
-graph TD
-  A[Curiosity] --> B[Creative Development]
-  A --> C[Problem Solving]
-  B --> D[User-Focused Apps]
-  C --> D
-I'm a full-stack developer driven by curiosity, creativity, and a passion for building meaningful digital experiences. My journey in software development is fueled by continuous learning and solving real-world problems through technology.
-I specialize in crafting intuitive, user-focused applications using modern web technologies. I thrive in collaborative environments where ideas evolve into impactful solutions. Whether it's front-end interfaces or back-end architecture, I approach every project with ownership, clarity, and a focus on delivering value.
-"I build to solve, create to inspire, and code to make a difference."
-
-🏅 Certifications
-
-  
-    <img src="https://img.shields.io/badge/ReBootKamp-Full--Stack%20Developer-%2300C4CC?style=for-the-badge&#x26;logo=codeigniter&#x26;logoColor=white" alt="RBK Certification">
-  
-
-Full-Stack Software – ReBootKamp (RBK)
-
-Successfully completed the immersive RBK training program, including all phases and certification exams. Delivered a thesis project demonstrating full-stack proficiency.
-
-🔗 View Credential
-
-🛠️ Skills & Technologies
-
-  
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,jquery,react,tailwind,nodejs,express,mongodb,postgres,prisma,postman,figma,git,github" alt="Tech Stack">
-  
 
 
-📊 GitHub Stats
+A full-stack developer with a passion for crafting intuitive digital experiences that empower users and solve real-world problems. 🚀  
+From tourism to tech, my journey is fueled by curiosity, creativity, and a commitment to continuous learning.
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ghaithkhal27&#x26;show_icons=true&#x26;theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaithkhal27&#x26;layout=compact&#x26;theme=radical&#x26;langs_count=8" alt="Top Languages">
+---
+
+## 🌟 About Me
+
+I transitioned from the world of hospitality to software development, bringing with me a strong foundation in communication, adaptability, and service design.  
+Now, I build full-stack applications using modern web technologies—always with a focus on clean code, inclusive design, and meaningful impact.
+
+I thrive in agile environments where collaboration turns ideas into scalable solutions. Whether it's front-end finesse or back-end architecture, I take ownership of every detail.
+
+---
+
+## 🏅 Certifications
+
+🎓 **Full-Stack Software  – ReBootKamp (RBK)**  
+Completed an immersive, project-based training program focused on JavaScript, agile methodologies, and full-stack development.  
+🔗 [View Credential](https://credsverse.com/credentials/2cbfc7fa-45d8-43ce-8da7-21aba97d2201?preview=1)
+
+---
+
+## 🛠️ Skills & Technologies
+
+[![Tech Stack](https://skillicons.dev/icons?i=js,ts,html,css,jquery,react,tailwind,nodejs,express,mongodb,postgres,prisma,postman,figma,git,github)](https://skillicons.dev)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghaithkhal27&show_icons=true&theme=radical)
+
+---
 
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ghaithkhal27&#x26;theme=radical&#x26;column=7" alt="GitHub Trophies">
 
+## 📬 Let's Connect
 
-  <img src="https://img.shields.io/badge/Followers-3-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Following-4-blue?style=flat-square">
-  <img src="https://img.shields.io/badge/Repositories-15-blue?style=flat-square">
+📧 Email: [ghaithkhalfallah18@gmail.com](mailto:ghaithkhalfallah18@gmail.com)  
+📱 Phone: [+216 27420178](tel:+21627420178)  
+💼 LinkedIn: [linkedin.com/in/ghaith-khalfallah](https://www.linkedin.com/in/ghaith-khalfallah)  
+🌐 Portfolio: [ghaith-khalfallah.netlify.app](https://ghaith-khalfallah.netlify.app)
 
-
-📬 Contact Me
-
-  
-    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" alt="Email">
-Email
-  
-  
-    <img src="https://img.icons8.com/color/96/000000/phone.png" width="60" alt="Phone">
-Phone
-  
-  
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" alt="LinkedIn">
-LinkedIn
-  
-  
-    <img src="https://img.icons8.com/color/96/000000/domain.png" width="60" alt="Portfolio">
-Portfolio
-  
-
-
-  ghaithkhalfallah18@gmail.com | 
-  +216 27420178 | 
-  linkedin.com/in/ghaith-khalfallah | 
-  ghaith-khalfallah.netlify.app
 
 
 
