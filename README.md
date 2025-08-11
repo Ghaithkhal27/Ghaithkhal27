@@ -62,7 +62,7 @@ Always eager to **learn, share, and collaborate**, I thrive in environments wher
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghaithkhal27&show_icons=true&theme=radical&include_all_commits=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghaithkhal27&layout=compact&theme=radical&langs_count=8) |
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ghaithkhal27&theme=radical&background=0D1117&border=444)  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghaithkhal27&theme=react-dark&bg_color=0D1117&hide_border=true&area=true)
+
 
 </div>
 
@@ -70,11 +70,12 @@ Always eager to **learn, share, and collaborate**, I thrive in environments wher
 
 ## 📂 Featured Projects
 
-🚀 **[KeySprint - A multiplayer typing game]([https://github.com/Ghaithkhal27](https://github.com/Ghaithkhal27/KeySprint_backend))**  
+🚀 **[KeySprint - A multiplayer typing game]((https://github.com/Ghaithkhal27/KeySprint_backend))**  
 A typing game app is one that can calculate the user's typing progress, and you can play online with others to make the game more challenging.
+
 **Tech:**  React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript,Redux
 
-🎯 **[ChatRocket – Real-Time Chat Application]([https://github.com/Ghaithkhal27](https://github.com/Ghaithkhal27/ChatRocket-Frontend))**  
+🎯 **[ChatRocket – Real-Time Chat Application]((https://github.com/Ghaithkhal27/ChatRocket-Frontend))**  
 A chat application is an app for making discussions with other people using real-time services.  
 **Tech:**  React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript,zustand 
 
