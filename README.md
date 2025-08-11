@@ -5,11 +5,11 @@
   </a>
 
   <h2 style="font-family: 'Poppins', 'Segoe UI', sans-serif; font-weight: 700; color: #0EA5E9;">👋 Hi, I'm Ghaith Khalfallah</h2>
-  <p>
+ 
 
     
     A passionate full-stack developer who thrives on curiosity, creativity, and building meaningful digital experiences. 🚀 I love exploring new technologies, solving real-world problems, and contributing to open-source projects.
-  </p>
+ 
   
 
 
