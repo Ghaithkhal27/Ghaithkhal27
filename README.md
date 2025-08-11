@@ -70,14 +70,18 @@ Always eager to **learn, share, and collaborate**, I thrive in environments wher
 
 ## 📂 Featured Projects
 
-🚀 **[KeySprint - A multiplayer typing game]((https://github.com/Ghaithkhal27/KeySprint_backend))**  
-A typing game app is one that can calculate the user's typing progress, and you can play online with others to make the game more challenging.
+🚀 **[KeySprint - A multiplayer typing game](https://github.com/Ghaithkhal27/KeySprint_backend)**  
+A typing game app that calculates your typing progress and lets you play online with others for a more challenging experience.  
 
-**Tech:**  React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript,Redux
+**Tech:** React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript, Redux
 
-🎯 **[ChatRocket – Real-Time Chat Application]((https://github.com/Ghaithkhal27/ChatRocket-Frontend))**  
-A chat application is an app for making discussions with other people using real-time services.  
-**Tech:**  React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript,zustand 
+---
+
+🎯 **[ChatRocket – Real-Time Chat Application](https://github.com/Ghaithkhal27/ChatRocket-Frontend)**  
+A real-time chat application for seamless discussions with others using WebSocket technology.  
+
+**Tech:** React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript, Zustand
+ 
 
 ---
 
@@ -85,11 +89,25 @@ A chat application is an app for making discussions with other people using real
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghaith-khalfallah)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://ghaith-khalfallah.netlify.app)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ghaithkhal27)
+<a href="https://linkedin.com/in/ghaith-khalfallah" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;
+<a href="https://ghaith-khalfallah.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Ghaithkhal27" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+---
+
+📧 **Email:** [ghaithkhalfallah27@hotmail.com](mailto:ghaithkhalfallah27@hotmail.com)  
+💬 Always open to tech discussions, collaboration, and new opportunities!
 
 </div>
+
 
 ---
 
