@@ -70,13 +70,13 @@ Always eager to **learn, share, and collaborate**, I thrive in environments wher
 
 ## 📂 Featured Projects
 
-🚀 **[Food Delivery Platform](https://github.com/Ghaithkhal27)**  
-A full-stack application connecting chefs and customers with real-time order tracking.  
-**Tech:** React, Node.js, Prisma, PostgreSQL, TailwindCSS
+🚀 **[KeySprint - A multiplayer typing game]([https://github.com/Ghaithkhal27](https://github.com/Ghaithkhal27/KeySprint_backend))**  
+A typing game app is one that can calculate the user's typing progress, and you can play online with others to make the game more challenging.
+**Tech:**  React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript,Redux
 
-🎯 **[Math Quiz Game](https://github.com/Ghaithkhal27)**  
-Gamified learning platform with multiple levels and leaderboards.  
-**Tech:** React, TypeScript, Express, Prisma
+🎯 **[ChatRocket – Real-Time Chat Application]([https://github.com/Ghaithkhal27](https://github.com/Ghaithkhal27/ChatRocket-Frontend))**  
+A chat application is an app for making discussions with other people using real-time services.  
+**Tech:**  React, Tailwind CSS, Node.js, Express.js, PostgreSQL, Prisma, Socket.io, TypeScript,zustand 
 
 ---
 
